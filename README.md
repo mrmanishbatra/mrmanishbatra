@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrmanishbatra
 - 👀 I’m interested in DataScience, Machine Learning
-- 🌱 I’m currently learning newthings daily
+- 🌱 I’m currently learning new things daily
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me : Email:manish0792@gmail.com ,Linkedin: https://www.linkedin.com/in/mrmanishbatra/
 
